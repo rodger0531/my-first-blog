@@ -1,5 +1,4 @@
 *.pyc
 __pycache__
-Django_test_env
 db.sqlite3
 .DS_Store
